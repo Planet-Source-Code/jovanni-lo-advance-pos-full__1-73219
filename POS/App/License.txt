@@ -1,0 +1,20 @@
+About POS...
+
+This is a pre-compiled system of PBSP Development.
+Anyone having a copy of this system are not allowed to sell and/or use this 
+system for own purposes.
+
+A product of PBSP Development
+
+These are the peple who made this system posible and workable:
+
+Coded and Compiled by: Jovanni Lo - Senior Programmer
+Jernon Bokingkito: System Analyst, Senior Adviser
+Aldwin Estorco: Junior Programmer, Designer
+Credits:
+ACSAT
+Prog2 Class batch 08-09. :-)
+
+Contact me:
+09058479626, jlo_van@yahoo.com
+For your Comments and Sudgestions, Please Contact us.
